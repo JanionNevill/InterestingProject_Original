@@ -2,4 +2,6 @@
 Some interesting work on this thing
 
 ## To Do:
-- All of the work
+- Start of the work
+- Middle of the work
+- End of the work
