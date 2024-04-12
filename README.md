@@ -7,6 +7,3 @@ Some interesting work on this thing
 - End of the work
 - Party
 - Sleep
-
-## To Don't:
-- Fail
