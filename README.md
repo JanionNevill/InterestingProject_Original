@@ -6,7 +6,3 @@ Some interesting work on this thing
 - Middle of the work
 - End of the work
 - Party
-- Sleep
-
-## Aims:
-- Achieve world peace
