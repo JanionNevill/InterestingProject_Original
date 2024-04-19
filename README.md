@@ -9,6 +9,3 @@ Some interesting work on this thing
 
 ## Aims:
 - Achieve world peace
-
-## Bugs:
-- OK, lots of bugs
