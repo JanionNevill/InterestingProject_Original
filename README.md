@@ -11,4 +11,4 @@ Some interesting work on this thing
 - Achieve world peace
 
 ## Bugs:
-- Maybe one bug
+- OK, lots of bugs
